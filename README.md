@@ -1,0 +1,2 @@
+# TDSI_TurkeySoftwareInventory
+Türkiyede Üretilmiş Yazılım Envanteri
